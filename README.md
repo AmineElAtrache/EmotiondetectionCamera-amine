@@ -69,7 +69,7 @@ The script integrates the trained model with a live webcam feed to:
 - Predict emotions for each detected face.
 - Display predicted emotions directly on the video feed.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/939d11c5-6a4f-407a-8556-0128e80af5fa)
 
 
  Conclusion
